@@ -45,3 +45,16 @@ No refunds will be made to purchasers of BlockAuth Tokens, should they change th
 *Low Liquidity / Ability to Sell These Digital Tokens Will Be Limited*
 
 If you are purchasing BlockAuth in order to hold it as "a store of wealth or value," please understand that this project is in its early days of development and that the market for these tokens might be very shallow. This will make it harder to buy and sell these tokens without effecting the price on the market.
+
+##Use of the Bitcoins from the Crowdsale Event
+BlockAuth is commiting to publishing a ledger of all uses of funds that are received from the Crowdsale event and from future revenue streams. 
+
+The primary use of raised funds will be to engage core developers to work full-time to build out the BlockAuth infrastructure.
+
+Funds will also be used to secure a relationship with legal advisors to help draft up the franchise agreements and to advise us on various regulations involving identity and privacy world-wide. With this information, we'll be able to provide a better product through the franchised Identity Registrars for member websites. 
+
+Some funds will also be used to hire non-technical staff to interact with potential member websites, offer support, and perform verification services for the example identity registrar, Registrar.io. Those funds will also be used to pay for various components of automated verification tasks, such as subscriptions to various databases. 
+
+Money raised during the Crowdsale will also be used to buy crypto currency in the protocols that the BlockAuth ecosystem relies on. For example, a portion of the Bitcoins collected during crowdsale will be used to puchase Mastercoin, APICoins, SAFE, and any other digital token that it functions on top of in order for the BlockAuth system to hold a stake in the platforms it is built on top of. Holding a mix of BTC, Mastercoin, APICoins, and Maidsafe Coins provides the BlockAuth ecosystem with a longterm stake in the future of these protocols.
+
+Lastly, bounties and challenges will be issued to the general community to increase the number of modules, plugins, and code examples to make it easier for member websites to integrate the metadata that BlockAuth Identity Registrars can provide. Those same bounties and challenges will also occasionally be used to pay for security and code audits as well as commissioning open source verification modules for the franchise packages. 
