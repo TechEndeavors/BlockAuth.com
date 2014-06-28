@@ -5,8 +5,8 @@ BlockAuth will generate a total of 20,996,011 Tokens on the Mastercoin Protocol.
 
 ## Crowdsale Pricing
 The first million tokens will be offered for 0.0005 BTC and will generate up to 500 BTC
-The next two million tokens will be offered for 0.0001 BTC and will generate up to 2000 BTC
-The last two million tokens will be offered for 0.0002 BTC and will generate up to 4000 BTC
+The next two million tokens will be offered for 0.001 BTC and will generate up to 2000 BTC
+The last two million tokens will be offered for 0.002 BTC and will generate up to 4000 BTC
 
 In the event that all tokens are sold during the crowdsale, a total of 6500 BTC will be raised. 
 
