@@ -13,12 +13,14 @@ We pledge to involve the community and working closely with developers, business
 
 When there is a fundamental disagreement between the desires of developers, business owners, or end users, we will arbitrate tirelessly until the highest level of satisfaction has been achieved. 
 
-###We Put Our Money Where Our Mouth Is
+###Open Book
 All financial transactions will be public. We pledge to have a public ledger showing where money is being received and where it is being spent. 
 
 ###Decentralization
-Everything possible will be decentralized or made democratic.
+Everything possible will be decentralized or made democratic. Initially, BlockAuth will be built with several centralized systems, but the end goal is to have everything distributed and decentralized, with the business decisions themselves based on consensus. 
 
 ###Embracing the Community
-Funding will be used to improve other open source projects
+We will do our best to help other relevant open source projects. When necessary, we will offer bounties for work or donate money to existing project maintainers. When we're approached by any other projects, we will embrace their interest, requests, and suggestions with an open mind. 
 
+###Building a larger ecosystem
+When possible, we will assist websites use BlockAuth identification technology at no charge. We will also help train developers, foster small startups that use the system, and help market anyone that does implement the authentication platform. 
