@@ -1,0 +1,1 @@
+##Founding Ideals and Goals
