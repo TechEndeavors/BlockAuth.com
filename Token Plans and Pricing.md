@@ -26,7 +26,6 @@ At the conclusion of the crowdsale, users will be able to log into the BlockAuth
 balances, submit buy and sell orders on the BlockAuth Token Exchange, or withdraw their tokens to a Mastercoin
 wallet of their choice. 
 
-[Disclosures](#Disclosures)
 ##Disclosures
 It's important to make some disclosures in order to avoid confusion on the part of new users of these technologies or those that might be unfarmilar with crowdsales and what they are buying.
 
