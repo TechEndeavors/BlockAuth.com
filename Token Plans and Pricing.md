@@ -26,6 +26,7 @@ At the conclusion of the crowdsale, users will be able to log into the BlockAuth
 balances, submit buy and sell orders on the BlockAuth Token Exchange, or withdraw their tokens to a Mastercoin
 wallet of their choice. 
 
+<a id="disclosures"></a>
 ##Disclosures
 It's important to make some disclosures in order to avoid confusion on the part of new users of these technologies or those that might be unfarmilar with crowdsales and what they are buying.
 
@@ -45,6 +46,7 @@ No refunds will be made to purchasers of BlockAuth Tokens, should they change th
 
 If you are purchasing BlockAuth in order to hold it as "a store of wealth or value," please understand that this project is in its early days of development and that the market for these tokens might be very shallow. This will make it harder to buy and sell these tokens without effecting the price on the market.
 
+<a id="postsale"></a>
 ##Use of the Bitcoins from the Crowdsale Event
 BlockAuth is commiting to publishing a ledger of all uses of funds that are received from the Crowdsale event and from future revenue streams. 
 
