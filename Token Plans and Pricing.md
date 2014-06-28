@@ -25,3 +25,23 @@ Bitcoin transactions are applied immediately, but invalid Bitcoin transactions w
 At the conclusion of the crowdsale, users will be able to log into the BlockAuth website to view their 
 balances, submit buy and sell orders on the BlockAuth Token Exchange, or withdraw their tokens to a Mastercoin
 wallet of their choice. 
+
+##Disclosures
+
+It's important to make some disclosures in order to avoid confusion on the part of new users of these technologies or those that might be unfarmilar with crowdsales and what they are buying.
+
+*Friendly Information*
+
+The views expressed in these statements and websites (while intended as neutral and informational), should be taken as friendly to the project and its success given it was prepared by those close to the projects development.
+
+*This Is Not Stock or Equity*
+
+Participation in the crowdsale will not provide you with a "security" or "equity" stake in this project. The digital token known as a "BlockAuth Token" is only useful when it is operating within the BlockAuth ecosystem after its development is complete.
+
+*No Refunds*
+
+No refunds will be made to purchasers of BlockAuth Tokens, should they change their mind at a later time, as the creation of the BlockAuth Tokens is locked in. Of course, once the purchaser receives his or her tokens after the crowdsale, they are free to send or sell them to anyone of their choice.
+
+*Low Liquidity / Ability to Sell These Digital Tokens Will Be Limited*
+
+If you are purchasing BlockAuth in order to hold it as "a store of wealth or value," please understand that this project is in its early days of development and that the market for these tokens might be very shallow. This will make it harder to buy and sell these tokens without effecting the price on the market.
