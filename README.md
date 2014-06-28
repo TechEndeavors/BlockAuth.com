@@ -21,6 +21,9 @@ This document describes our strategy of getting BlockAuth compatible software mo
 [Franchise Fees and Operating Costs](https://github.com/BlockAuth/Planning/blob/master/Franchise%20Fees%20and%20Operating%20Costs.md)
 This document describes some of the requirements to be a Identity Registrar, including operational fees, membership fees, and obligations.
 
+[Open Source Projects to Contribute to](https://github.com/BlockAuth/Planning/blob/master/Open%20Source%20Projects%20to%20Contribute%20to.md)
+By contributing to existing open source projects, we help the community and ourselves. It's both the smart and the right thing to do.
+
 ##Operational Overviews
 [Ensuring User Privacy Rights](https://github.com/BlockAuth/Planning/blob/master/Ensuring%20User%20Privacy%20Rights.md)
 This document describes the user experience when they sign up at a new site and how they can see what information is being requested and how they have the power to deny it or to provide "proxy" information.
