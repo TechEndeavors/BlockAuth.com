@@ -13,17 +13,22 @@ These are login or commenting modules that need to be created or forked from sta
 > PHP OpenID Connect Basic Client
 > https://github.com/jumbojett/OpenID-Connect-PHP
 
+
 > A complete OpenID Connect implementation in Python
 > https://github.com/rohe/pyoidc
+
 
 > Google Apps OpenID authentication middleware for Connect/Node.js
 > https://github.com/Shopify/connect-googleapps
 
+
 > OpenID Connect Relying Party (RP) functionality for Apache HTTP Server 2.x
 > https://github.com/pingidentity/mod_auth_openidc
 
+
 > OpenID Connect Client Library
 > https://github.com/ivan-novakov/php-openid-connect-client
+
 
 > Micro OpenID/FB-connect based PHP framework
 > https://github.com/Fizzadar/Fanatical-Dev-Core
