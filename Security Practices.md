@@ -30,7 +30,7 @@ Security paranoid levels can be adjusted to different paranoia levels in three c
 * Paranoid - Password reset is only possible with an automated video interview where they are asked the multiple choice security questions. A support person will review the request. When the request has been approved, they will receive an email and txt message asking them to click a link to initiate a phone call that tells them the password reset code. 
 * Tin Foil hat - Password reset can be initiated with same video interview process, but the password reset code is sent via postal mail. 
 
-*Examples of security questions*
+###Examples of security questions
 * Which of these 5 foods do you like the most? (from a pool of 20 choices)
 * Which of these 5 scary animals do you like the least? (from a pool of 20 choices)
 * Which of these 5 instruments do you like hearing the most in a song? (from a pool of 20 choices)
