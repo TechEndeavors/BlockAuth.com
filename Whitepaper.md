@@ -1,5 +1,5 @@
-BlockAuth - A network of OpenID Connect providers that verify user authentication AND authenticity
-================================================================
+#BlockAuth#
+A network of OpenID Connect providers that verify user authentication AND authenticity
 
 
 
