@@ -17,7 +17,7 @@ Right now, those sites and services have to do all of the verification work them
 The Competition
 -----------------
 There are several agencies that offer verification services, but they tend to just allow sites and services to lower their verification costs. By not placing the ownership of the results in the users ownership, those services  charge different sites and services the same costs for repeated verifications. Additionally, they don't provide authentication outsourcing. 
-*That's what makes BlockAuth different from the existing services. The user has the ownership of the results of their verification tasks and can use that verification with any site that will accept it. *
+*That's what makes BlockAuth different from the existing services. The user has the ownership of the results of their verification tasks and can use that verification with any site that will accept it.*
 
 Open Source Throughout
 -----------------------
@@ -85,42 +85,4 @@ In order to build up their Auth Score, end users will go to our site to fill out
 
 Some member sites will require a minimum Auth Score to use their services, such as an online merchant might require users to have a verified phone number and postal address. A loan provider might require that the end user have a verified source of income, address, and drivers license scanned. A travel agency might require the end user to have a scanned passport page. BlockAuth will tell the member sites if the end user has those things verified. 
 
-How to decentralize
------------------
-The bitcoin ecosystem desperately needs someone to validate users, but it also needs to not be totally reliant on a central authority. This project intends to use the Mastercoin protocol to store our certification of BlockAuth's verification of a users KYC documentation
 
-One way to accomplish this is by creating a new Mastercoin Smart Property (Transaction type 50). When a smart property is created, it's owned by the address which broadcast the transaction. That address will always be the BlockAuth address. 
-
-Let's say that the address that created this mastercoin is 1KZmDQGzGJWYmPP9X3b7TA9d1234567890
-
-- Property Category = "Authentication\0"
-- Property Subcategory = "login.blockauth.com\0" (used to designate what OAUTH server to hit)
-- Property Name = "UNASSIGNED-8ab28c77\0"
-- Property URL = "UNASSIGNED-8ab28c77.blockauth.com\0"
-- Property Data = "pd1,pd2,pd3+,pd4,pd5,ce1+,ce2,cd3,cp1+,cp2,cp5,\0"
-- Number Properties = 7941
-
-
-Once the smart property is created it'll be assigned a property ID (let's say it's 5481) by the mastercoin network, then a second transaction will occur to UPDATE the smart property to this:
-
-
-- Property Category = "Authentication\0"
-- Property Subcategory = "login.blockauth.com\0" (used to designate what OAUTH server to hit)
-- Property Name = "5481\0"
-- Property URL = "5481.blockauth.com\0"
-- Property Data = "pd1,pd2,pd3+,pd4,pd5,ce1+,ce2,cd3,cp1+,cp2,cp5,\0"
-- Number Properties = 7941
-
-
-
-The configuration of this smart property will tell sites that if they have a "Login with BlockAuth" button that points to the OAUTH provider at login.blockauth.com, a user will be able to login and if the OAUTH provider returns 5481 as the user ID, they have been verified. 
-
-The property data field includes a parsable set of boolean values that can be used to indicate various levels of user compliance and verification and preferences. The property URL indicates the location a website can go to the get the profile data the user wishes to make public. The direct URL will be a HTML webpage, but appendinging /json or /xml to the URL will give the data in other formats. 
-
-The number properties field will be something of a "trustability" score. This will allow some websites to make quick instant decisions about letting users login or sign up. The algorithm to generate this score is not yet known. 
-
-What's great about this system is that if the user is ever unhappy with BlockAuth, they can request their profile to be moved to another provider, like medical charts. The token can be transfered to another provider who replaces the Property Subcategory and Property URL settings. 
-
-BlockAuth will also have a wind-down business plan that guarantees that the private keys that control the address that owns all the tokens is split up among a few trusted members of the community. If the service ever has to disolve, and there is an alternative service available, all of the authentication tokens can be transfered.
-
-Since property subcategories can be sorted by popularity, this will allow sites to write an OAUTH login display that lets users login with the top 3 login providers on the Mastercoin network or manually enter their provider. This will result in the first mover advantage making BlockAuth at the top of the list, but it also lets other players enter the market.  
