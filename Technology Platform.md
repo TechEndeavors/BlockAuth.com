@@ -1,19 +1,19 @@
 ##Technology Platform##
 
-OpenID Connect Server
+*OpenID Connect Server*
 https://bitbucket.org/PEOFIAMP/phpoidc/
 
-Database Server
+*Database Server*
 http://rethinkdb.com/
 
-Message Queue Service
+*Message Queue Service*
 http://www.rabbitmq.com/
 
-Front-end framework
+*Front-end framework*
 http://laravel.com/
 
-Containers
+*Containers*
 http://www.docker.com/
 
-Orchestration Engine
+*Orchestration Engine*
 http://puppetlabs.com/
