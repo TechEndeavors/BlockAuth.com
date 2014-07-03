@@ -6,13 +6,13 @@ A network of OpenID Connect providers that verify user authentication AND authen
 
 The Need
 --------------------
-There are a multitide of groups that need the ability to not just provide a secure user authentication system but also need to be assured of the authenticity of every user. Authenticity isn't just verification that a user is who they claim they are, it's verification of the facts that they choose to assert about themselves. 
+There are many services that need a secure user authentication system who also need to be assured of the authenticity of every user. Authenticity isn't just verification that a user is who they claim they are, it's verification of the facts that the user chooses to assert about themselves. 
 
-If a user claims that they are a certain gender, age, ethnic group, financial class, or citizen of a certain country, we want to be able to vouch for those assertations on behalf of that user. 
+A user can make any claim about themselves from their gender, age, ethnic group, financial class, or citizenship. The verification providers in the BlockAuth network will verify any information possible to vouch for those assertations on behalf of that user. 
 
-Some sites and services have common needs, like the desire to only allow real people on their platform or to restrict their platform to people who are not minors or who are located in certain jurisdictions with legal entanglements. Other services might have more esoteric requirements, like wanting to restrict their site to people with degrees from a certain university or certain genders or specific locales. 
+Some sites and services have common needs. Most likely they want to make sure the users on their platform are real people . Perhaps they want to restrict their platform to people who are not minors or are located in certain jurisdictions without specific legal entanglements. Other services might have more esoteric requirements like wanting to restrict their site to people with degrees from a certain university or certain genders or specific locales. 
 
-Right now, those sites and services have to do all of the verification work themselves. This is difficult, expensive, and the work that those sites do isn't shared with competing or non-competing services. By centralizing the verification tasks to a third-party authority, the services can have the verification costs and burdens eased. The users can also avoid having to repeat the same verification tasks with different services. 
+Right now those sites and services have to do all of the verification work themselves. This is difficult, expensive, and the work that those sites do isn't shared with competing or non-competing services. By centralizing the verification tasks to a third-party authority, the services can have the verification costs and burdens eased. The users can also avoid having to repeat the same verification tasks with different services. 
 
 The Competition
 -----------------
