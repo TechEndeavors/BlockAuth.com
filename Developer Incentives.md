@@ -1,21 +1,24 @@
 ##Developer Incentives
 
-This document needs more content and to be expanded. 
+###Existing Open Source Projects###
+The technology that powers the Authentication system of BlockAuth registrars is mostly off-the-shelf open source code that just needs some extensions that are entirely allowed within the standards. OpenID Connect 1.0 is a new standard that was composed by some of the largest industry players over half a decade and is based on the established SAML, OpenID, and OAUTH2 standards. 
 
-Basic summary:
+Because of the ubiquity of the core technology, it's easy to find existing projects with active development that we can approach. When we approach a existing developer of an open source program, we'll first establish how popular it is already in the community or how popular it can be with some more maturity and marketing. 
 
-When necessary, we will hire freelancers to do work, but we would rather pay develoeprs with a history of contributing to  open source projects out of their good nature. 
+For developers who are willing to add in the BlockAuth extensions, we'll determine the going rate for their kind of work with their experience using ODesk or Freelancer and offer that amount. If the developer agrees to continue maintenance and development of the project beyond the initial integration, we'll offer occasional bonuses. 
 
-There isn't a formula for how much compensation will be supplied yet. 
+###Abandoned or Low Activity Projects###
+If we identity a project that has a good opportunity to be important, but it's been abandoned or is rarely updated, we'll attempt to contact the original developer to offer them maintenance and development funding at a lower rate than the primary open source projects. 
 
-When it comes to writing login modules, perhaps which login module was used can be tracked somewhere to give bonuses to the developer for work that's made a big impact and is being used by a lot of people?
+If a primary developer cannot be found, we'll make a post in relevent forums to attempt to find a person who is willing to fork the project and take ownership of future development in exchange for development funding. 
 
-When it comes to writing verification modules, maybe the developer can get a percentage cut of all the payments that the registrars pay to eachother to use that module?
+If we cannot find a primary developer, we'll fork it ourselves and find freelancers who can be paid to work on it occasionally. 
 
-We will find a place to post bounties if we can't find the right developer ourselves for each project or component
+###Extra Incentives###
+We'll attempt to determine the popularity of various projects in order to issue bonuses to developers or to provide funds to the project to get additional developers involved. 
+
+If we can't find the right people, we'll issue general bounties to the community. 
 
 If we can't find a good place to post bounties that is close to free, we'll make one and make it another free BlockAuth required site to get even more people into the ecosystem and to benefit the entire open source and cryptocurrency community. 
 
-Maybe use GitTip (We need to check their fees. Are they taking advantage of their users?)
-
-Seriously, all these sites that use Bitcoin don't have any costs other than hosting, and those costs can be covered by taking a small protion of the transactions at the beginning of the month and then STOPPING once the months fees are paid. Or they can be supported by proper advertising. 
+Projects that are doing important work in the same fields, even if it isn't specifically related to BlockAUth functions or integration, will still be eligible for no-strings-attached grants. 
