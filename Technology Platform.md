@@ -1,12 +1,18 @@
 ##Technology Platform##
 
-*OpenID Connect Server*
+*OpenID Connect Platforms(s)* 
 
+Anvil Connect (Coffeescript with Redis storage)
+https://github.com/christiansmith/anvil-connect
+
+PHPOIDC (PHP with Doctrine ORM that supports several relational DB's)
 https://bitbucket.org/PEOFIAMP/phpoidc/
 
-*Database Server*
+*Ideal DB Server*
 
-http://rethinkdb.com/
+MongoDB
+RethinkDB
+
 
 *Message Queue Service*
 
