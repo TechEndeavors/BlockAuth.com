@@ -32,3 +32,9 @@ These are login or commenting modules that need to be created or forked from sta
 
 > Micro OpenID/FB-connect based PHP framework
 > https://github.com/Fizzadar/Fanatical-Dev-Core
+
+
+https://bitbucket.org/PEOFIAMP/phpoidc/
+
+https://github.com/christiansmith/anvil-connect
+
