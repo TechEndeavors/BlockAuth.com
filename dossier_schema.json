@@ -5,13 +5,10 @@
 		"bio": {
 			"type": "object",
 			"properties": {
-        "fullName": {
-          "type": "string"
-        },
-				"firstName": {
+				"fullName": {
 					"type": "string"	
 				},
-				"lastName": {
+				"friendlyName": {
 					"type": "string"
 				},
 				"email": {
