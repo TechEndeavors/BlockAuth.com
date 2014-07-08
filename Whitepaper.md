@@ -22,7 +22,7 @@ There are several agencies that offer verification services, but they tend to ju
 
 Industry Impact
 -----------------
-The services that the BlockAuth providers will provide have tangible benefits from an extensive variety of industries from cryptocurrency exchanges to message boards to dating sites. For more, please see our [https://github.com/BlockAuth/Planning/blob/master/Industry%20Opportunities.md](Industry Opportunities) document. 
+The services that the BlockAuth providers will provide have tangible benefits from an extensive variety of industries from cryptocurrency exchanges to message boards to dating sites. For more, please see  https://github.com/BlockAuth/Planning/blob/master/Industry%20Opportunities.md
 
 
 Open Source Throughout
