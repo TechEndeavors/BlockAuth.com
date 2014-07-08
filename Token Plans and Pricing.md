@@ -1,9 +1,10 @@
 ## Token Generation
 BlockAuth will generate a total of 20,996,011 Tokens on the Mastercoin Protocol. 
 
-* 2 million will be available to Angel Investors in a 14-day and a 7-day round. 
-* 1 million will be available to developers in a 14-day round
-* 3 million will be available to the public in 4 7-day rounds during the public crowdsale 
+* 1 million will be available to **Angel Investors** in a 14-day round
+* 1 million will be available to **Accredited Investors** and a 7-day round. 
+* 1 million will be available to **Developers** in a 14-day round
+* 3 million will be available to **the public** in 4 7-day rounds during the public crowdsale 
 
 ## Crowdsale Pricing
 * Round 1 - July 14th to Jul 27th - 1 million tokens for a whitelist of Angel Investors at 0.00025 BTC each to raise 250 BTC
