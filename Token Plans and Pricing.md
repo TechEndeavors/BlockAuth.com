@@ -1,16 +1,21 @@
 ## Token Generation
 BlockAuth will generate a total of 20,996,011 Tokens on the Mastercoin Protocol. 
 
-5 million of those will be available during the crowdsale. 
+2 million will be available to Angel Investors in a 14-day and a 7-day round. 
+1 million will be available to developers in a 14-day round
+3 million will be available to the public in 4 7-day rounds during the public crowdsale 
 
 ## Crowdsale Pricing
-The first million tokens will be offered for 0.0005 BTC and will generate up to 500 BTC
-The next two million tokens will be offered for 0.001 BTC and will generate up to 2000 BTC
-The last two million tokens will be offered for 0.002 BTC and will generate up to 4000 BTC
+Round 1 - July 14th to Jul 27th - 1 million tokens for a whitelist of Angel Investors at 0.00025 BTC each to raise 250 BTC
+Round 2 - July 28st to Aug 3rd - 1 million tokens for accredited investors at 0.0003 BTC each to raise 300 BTC
+Round 3 - Aug 4th to Aug 17th - 1 million tokens for developers at 0.0003 BTC each to raise 300 BTC
+Round 4 - Aug 18th to Aug 24th - 1 million tokens for the general public at 0.0005 BTC each to raise 500 BTC
+Round 5 - Aug 25th to Aug 31st - 1 million tokens for the general public at 0.0006 BTC each to raise 600 BTC
+Round 6 - Sep 1st to Sep 7th - 1 million tokens for the general public at 0.0007 BTC each to raise 700 BTC
 
-In the event that all tokens are sold during the crowdsale, a total of 6500 BTC will be raised. 
+Any unsold tokens in each round will be distributed equitibly among the participants of that round. For instance, if 100,000 tokens are sold in a round, the remaining 900,000 tokens will be distributed to participants proportionally to the quantity they purchased. 
 
-Any unsold tokens will be proportionally issued as a bonus to the buyers who participated. The end result of the crowdsale is that all 5 million tokens will be distributed regardless of how many Bitcoins are raised. 
+In the event that all tokens are sold during the crowdsale, a total of 2650 BTC will be raised. 
 
 ## Crowdsale participation
 The crowdsale is open to users worldwide who are able to send Bitcoin. 
