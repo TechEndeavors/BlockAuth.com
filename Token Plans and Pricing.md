@@ -6,12 +6,13 @@ BlockAuth will generate a total of 20,996,011 Tokens on the Mastercoin Protocol.
 3 million will be available to the public in 4 7-day rounds during the public crowdsale 
 
 ## Crowdsale Pricing
-Round 1 - July 14th to Jul 27th - 1 million tokens for a whitelist of Angel Investors at 0.00025 BTC each to raise 250 BTC
-Round 2 - July 28st to Aug 3rd - 1 million tokens for accredited investors at 0.0003 BTC each to raise 300 BTC
-Round 3 - Aug 4th to Aug 17th - 1 million tokens for developers at 0.0003 BTC each to raise 300 BTC
-Round 4 - Aug 18th to Aug 24th - 1 million tokens for the general public at 0.0005 BTC each to raise 500 BTC
-Round 5 - Aug 25th to Aug 31st - 1 million tokens for the general public at 0.0006 BTC each to raise 600 BTC
-Round 6 - Sep 1st to Sep 7th - 1 million tokens for the general public at 0.0007 BTC each to raise 700 BTC
+
+* Round 1 - July 14th to Jul 27th - 1 million tokens for a whitelist of Angel Investors at 0.00025 BTC each to raise 250 BTC
+* Round 2 - July 28st to Aug 3rd - 1 million tokens for accredited investors at 0.0003 BTC each to raise 300 BTC
+* Round 3 - Aug 4th to Aug 17th - 1 million tokens for developers at 0.0003 BTC each to raise 300 BTC
+* Round 4 - Aug 18th to Aug 24th - 1 million tokens for the general public at 0.0005 BTC each to raise 500 BTC
+* Round 5 - Aug 25th to Aug 31st - 1 million tokens for the general public at 0.0006 BTC each to raise 600 BTC
+* Round 6 - Sep 1st to Sep 7th - 1 million tokens for the general public at 0.0007 BTC each to raise 700 BTC
 
 Any unsold tokens in each round will be distributed equitibly among the participants of that round. For instance, if 100,000 tokens are sold in a round, the remaining 900,000 tokens will be distributed to participants proportionally to the quantity they purchased. 
 
