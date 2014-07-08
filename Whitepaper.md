@@ -8,7 +8,7 @@ The Need
 --------------------
 There are many services that need a secure user authentication system who also need to be assured of the authenticity of every user. Authenticity isn't just verification that a user is who they claim they are, it's verification of the facts that the user chooses to assert about themselves. 
 
-A user can make any claim about themselves from their gender, age, ethnic group, financial class, or citizenship. The verification providers in the BlockAuth network will verify any information possible to vouch for those assertations on behalf of that user. 
+A user can make any claim about themselves from their gender, age, financial class, visa status, or citizenship. The verification providers in the BlockAuth network will verify any information possible to vouch for those assertations on behalf of that user. 
 
 Some sites and services have common needs. Most likely they want to make sure the users on their platform are real people . Perhaps they want to restrict their platform to people who are not minors or are located in certain jurisdictions without specific legal entanglements. Other services might have more esoteric requirements like wanting to restrict their site to people with degrees from a certain university or certain genders or specific locales. 
 
@@ -16,8 +16,14 @@ Right now those sites and services have to do all of the verification work thems
 
 The Competition
 -----------------
-There are several agencies that offer verification services, but they tend to just allow sites and services to lower their verification costs. By not placing the ownership of the results in the users ownership, those services  charge different sites and services the same costs for repeated verifications. Additionally, they don't provide authentication outsourcing. 
-*That's what makes BlockAuth different from the existing services. The user has the ownership of the results of their verification tasks and can use that verification with any site that will accept it.*
+There are several agencies that offer verification services, but they tend to just outsource specific verification techniques. By not placing the ownership of the results in the users ownership, those services charge different sites and services the same costs for repeated verifications. Additionally, they don't provide authentication outsourcing. 
+**That's what makes BlockAuth different from the existing services. The user has the ownership of the results of their verification tasks and can use that verification with any site that will accept it.**
+
+
+Industry Impact
+-----------------
+The services that the BlockAuth providers will provide have tangible benefits from an extensive variety of industries from cryptocurrency exchanges to message boards to dating sites. For more, please see our [https://github.com/BlockAuth/Planning/blob/master/Industry%20Opportunities.md](Industry Opportunities) document. 
+
 
 Open Source Throughout
 -----------------------
@@ -59,3 +65,13 @@ If a franchise partner loses their license, their monthly membership fee is kept
 
 Project Status
 -------------
+BlockAuth has forked an existing OpenID Connect Provider software package and is making the necessary improvements to extend the metadata written into the standard to include additional data that can be passed along to any services that are configured to listen to them. We are currently in the process of altering the software to work with MongoDB in order to allow for proper storage of user information that fits our extended and flexible schema. 
+
+There needs to be a lot more work done on the user interface side of the services. We've been building it with the API first. 
+
+
+
+
+
+
+
