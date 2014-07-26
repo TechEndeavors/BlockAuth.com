@@ -1,5 +1,8 @@
 ##Developer Incentives
 
+## How about stopping to ignore ppl?
+
+
 ###Existing Open Source Projects###
 The technology that powers the Authentication system of BlockAuth registrars is mostly off-the-shelf open source code that just needs some extensions that are entirely allowed within the standards. OpenID Connect 1.0 is a new standard that was composed by some of the largest industry players over half a decade and is based on the established SAML, OpenID, and OAUTH2 standards. 
 
